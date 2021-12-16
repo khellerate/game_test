@@ -1,0 +1,4 @@
+khel/main/BuildConfig.java
+ khel.main.BuildConfig
+khel/main/MainActivity.java
+ khel.main.MainActivity

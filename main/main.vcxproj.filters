@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="khel">
+      <UniqueIdentifier>{90ec722a-8568-4fcc-844a-9eec813dfe4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\gradle">
+      <UniqueIdentifier>{6b981939-3b64-4f26-bcda-8b4441cf8ddc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\gradle\wrapper">
+      <UniqueIdentifier>{03c99957-dc3e-4a5a-990a-e9079139f430}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app">
+      <UniqueIdentifier>{3754a282-3e6c-4dab-8d02-c6db80a4891d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src">
+      <UniqueIdentifier>{c0e0b7a6-1b55-493d-9a33-bdf97d9d9ae2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\androidTest">
+      <UniqueIdentifier>{88689374-55c0-4287-8d2f-3fbe02a9d675}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\androidTest\java">
+      <UniqueIdentifier>{fb25cfdc-29c4-4beb-8e6e-4eff076a90d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\androidTest\java\khel">
+      <UniqueIdentifier>{13dad4a5-5751-4865-b6e9-034f6cb6ea97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\androidTest\java\khel\main">
+      <UniqueIdentifier>{5a1026ed-b88a-4dbc-8f20-eef4103ddeea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main">
+      <UniqueIdentifier>{f1749e2e-254d-4252-a354-b882d71d88de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\cpp">
+      <UniqueIdentifier>{1e86ff8d-3e80-479f-b975-f37f08031815}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\java">
+      <UniqueIdentifier>{5d0adbf1-ca8b-4022-bbe3-e556e19f31d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\java\khel">
+      <UniqueIdentifier>{34b716bc-a10a-4194-9f41-cd65c0298bff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\java\khel\main">
+      <UniqueIdentifier>{1ffb53ca-c194-4a8e-8ce0-22681ad9d61d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\res">
+      <UniqueIdentifier>{af2e3ab1-735e-4cf7-a48e-3cbb38690e54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\res\drawable">
+      <UniqueIdentifier>{9fa196ad-703b-4cb8-a25c-0d168e4692f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\res\drawable-v24">
+      <UniqueIdentifier>{2269ba1c-8c01-431a-99e6-75e98feaa6e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\res\layout">
+      <UniqueIdentifier>{71207797-7f87-4a44-8f51-9d6dd27e880e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\res\mipmap-anydpi-v26">
+      <UniqueIdentifier>{8f071828-0987-4109-ad75-c06ab50afb61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\res\mipmap-hdpi">
+      <UniqueIdentifier>{c37ad7bf-9569-42c4-93c4-10591084567f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\res\mipmap-mdpi">
+      <UniqueIdentifier>{1ee61769-43ee-4b9b-b846-8118aa82cc77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\res\mipmap-xhdpi">
+      <UniqueIdentifier>{193ca42d-25d6-4771-9f9d-cd9169b2d70d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\res\mipmap-xxhdpi">
+      <UniqueIdentifier>{c68b1c2b-e655-4ce8-81db-09bb9908da44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\res\mipmap-xxxhdpi">
+      <UniqueIdentifier>{b2134841-f442-4b4d-9b0c-bd8fbbd6a24a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\main\res\values">
+      <UniqueIdentifier>{8cd692aa-888a-404f-99e8-856b94e12f6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\test">
+      <UniqueIdentifier>{57cb787f-1f7c-4489-964d-658fdfde8540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\test\java">
+      <UniqueIdentifier>{5f8d7f37-ebba-422e-8704-1a0f516507ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\test\java\khel">
+      <UniqueIdentifier>{c70b3946-33be-4fd1-bfe2-6f3df71d370f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="khel\app\src\test\java\khel\main">
+      <UniqueIdentifier>{67bb8bb3-0ffb-4c11-9c98-1ddbc498c1cc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="khel\gradle\wrapper\gradle-wrapper.jar">
+      <Filter>khel\gradle\wrapper</Filter>
+    </None>
+    <None Include="khel\gradle\wrapper\gradle-wrapper.properties">
+      <Filter>khel\gradle\wrapper</Filter>
+    </None>
+    <None Include="khel\build.gradle">
+      <Filter>khel</Filter>
+    </None>
+    <None Include="khel\gradle.properties">
+      <Filter>khel</Filter>
+    </None>
+    <None Include="khel\gradlew">
+      <Filter>khel</Filter>
+    </None>
+    <None Include="khel\gradlew.bat">
+      <Filter>khel</Filter>
+    </None>
+    <None Include="khel\settings.gradle">
+      <Filter>khel</Filter>
+    </None>
+    <None Include="khel\app\src\androidTest\java\khel\main\ExampleInstrumentedTest.java">
+      <Filter>khel\app\src\androidTest\java\khel\main</Filter>
+    </None>
+    <None Include="khel\app\src\main\java\khel\main\MainActivity.java">
+      <Filter>khel\app\src\main\java\khel\main</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\drawable\ic_launcher_background.xml">
+      <Filter>khel\app\src\main\res\drawable</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\drawable-v24\ic_launcher_foreground.xml">
+      <Filter>khel\app\src\main\res\drawable-v24</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\layout\activity_main.xml">
+      <Filter>khel\app\src\main\res\layout</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml">
+      <Filter>khel\app\src\main\res\mipmap-anydpi-v26</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml">
+      <Filter>khel\app\src\main\res\mipmap-anydpi-v26</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-hdpi\ic_launcher.png">
+      <Filter>khel\app\src\main\res\mipmap-hdpi</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-hdpi\ic_launcher_round.png">
+      <Filter>khel\app\src\main\res\mipmap-hdpi</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-mdpi\ic_launcher.png">
+      <Filter>khel\app\src\main\res\mipmap-mdpi</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-mdpi\ic_launcher_round.png">
+      <Filter>khel\app\src\main\res\mipmap-mdpi</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-xhdpi\ic_launcher.png">
+      <Filter>khel\app\src\main\res\mipmap-xhdpi</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png">
+      <Filter>khel\app\src\main\res\mipmap-xhdpi</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-xxhdpi\ic_launcher.png">
+      <Filter>khel\app\src\main\res\mipmap-xxhdpi</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png">
+      <Filter>khel\app\src\main\res\mipmap-xxhdpi</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png">
+      <Filter>khel\app\src\main\res\mipmap-xxxhdpi</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png">
+      <Filter>khel\app\src\main\res\mipmap-xxxhdpi</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\values\colors.xml">
+      <Filter>khel\app\src\main\res\values</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\values\strings.xml">
+      <Filter>khel\app\src\main\res\values</Filter>
+    </None>
+    <None Include="khel\app\src\main\res\values\styles.xml">
+      <Filter>khel\app\src\main\res\values</Filter>
+    </None>
+    <None Include="khel\app\src\main\AndroidManifest.xml">
+      <Filter>khel\app\src\main</Filter>
+    </None>
+    <None Include="khel\app\src\test\java\khel\main\ExampleUnitTest.java">
+      <Filter>khel\app\src\test\java\khel\main</Filter>
+    </None>
+    <None Include="khel\app\build.gradle">
+      <Filter>khel\app</Filter>
+    </None>
+    <None Include="khel\app\proguard-rules.pro">
+      <Filter>khel\app</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="khel\app\src\main\cpp\JniBindings.cpp">
+      <Filter>khel\app\src\main\cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

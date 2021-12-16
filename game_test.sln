@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "main", "main\main.vcxproj", "{105278B2-4D23-4C8B-9802-54AF03AB55C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android-arm64-v8a = Debug|Android-arm64-v8a
+		Debug|Android-armeabi-v7a = Debug|Android-armeabi-v7a
+		Debug|Android-x86 = Debug|Android-x86
+		Debug|Android-x86_64 = Debug|Android-x86_64
+		Release|Android-arm64-v8a = Release|Android-arm64-v8a
+		Release|Android-armeabi-v7a = Release|Android-armeabi-v7a
+		Release|Android-x86 = Release|Android-x86
+		Release|Android-x86_64 = Release|Android-x86_64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Debug|Android-arm64-v8a.ActiveCfg = Debug|Android-arm64-v8a
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Debug|Android-arm64-v8a.Build.0 = Debug|Android-arm64-v8a
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Debug|Android-armeabi-v7a.ActiveCfg = Debug|Android-armeabi-v7a
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Debug|Android-armeabi-v7a.Build.0 = Debug|Android-armeabi-v7a
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Debug|Android-x86.ActiveCfg = Debug|Android-x86
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Debug|Android-x86.Build.0 = Debug|Android-x86
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Debug|Android-x86_64.ActiveCfg = Debug|Android-x86_64
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Debug|Android-x86_64.Build.0 = Debug|Android-x86_64
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Release|Android-arm64-v8a.ActiveCfg = Release|Android-arm64-v8a
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Release|Android-arm64-v8a.Build.0 = Release|Android-arm64-v8a
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Release|Android-armeabi-v7a.ActiveCfg = Release|Android-armeabi-v7a
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Release|Android-armeabi-v7a.Build.0 = Release|Android-armeabi-v7a
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Release|Android-x86.ActiveCfg = Release|Android-x86
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Release|Android-x86.Build.0 = Release|Android-x86
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Release|Android-x86_64.ActiveCfg = Release|Android-x86_64
+		{105278B2-4D23-4C8B-9802-54AF03AB55C2}.Release|Android-x86_64.Build.0 = Release|Android-x86_64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBEE6B57-3F94-4402-9878-BDE66BD66145}
+	EndGlobalSection
+EndGlobal
