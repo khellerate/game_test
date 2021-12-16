@@ -79,7 +79,7 @@ Debug/*
 Release/*
 main/Debug/*
 main/Release/*
-main/build/*
-main/gradle/*
-main/.gradle/*
+main/khel/build/*
+main/khel/gradle/*
+main/khel/.gradle/*
 
